@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "459441224651",
+    "project_id": "tecnoproducts-f62cb",
+    "storage_bucket": "tecnoproducts-f62cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459441224651:android:3da21215b11b702508944e",
+        "android_client_info": {
+          "package_name": "pe.edu.cibertec.proyectofinalkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459441224651-cosvqokfejdb3ghuv9n700ghuppmdom7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.cibertec.proyectofinalkotlin",
+            "certificate_hash": "ec02e96fa48f8c6b560499b5fad2475cdca2133e"
+          }
+        },
+        {
+          "client_id": "459441224651-be33nkda3enaof2690ji77e02p8hfp5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcshPd9YgndnIFfdfsC1MpC9Z0Z6Q0rSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459441224651-be33nkda3enaof2690ji77e02p8hfp5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

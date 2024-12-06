@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pag_inicio"
+        android:icon="@drawable/casa"
+        android:title="Inicio"/>
+
+    <item
+        android:id="@+id/pag_productos"
+        android:icon="@drawable/categoria"
+        android:title="Productos"/>
+
+    <item
+        android:id="@+id/pag_ubicacion"
+        android:icon="@drawable/localizacion"
+        android:title="Ubícanos"/>
+
+    <item
+        android:id="@+id/pag_nosotros"
+        android:icon="@drawable/servicio_al_cliente"
+        android:title="Acerca de"/>
+</menu>

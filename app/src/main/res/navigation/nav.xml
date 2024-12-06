@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/pag_inicio"
+    android:id="@+id/nav">
+
+    <fragment
+        android:id="@+id/pag_inicio"
+        android:name="pe.edu.cibertec.proyectofinalkotlin.fragmentsServices.InicioFragment"
+        tools:layout="@layout/fragment_inicio"/>
+
+    <fragment
+        android:id="@+id/pag_productos"
+        android:name="pe.edu.cibertec.proyectofinalkotlin.fragmentsServices.ProductosFragment"
+        tools:layout="@layout/fragment_productos"/>
+
+    <fragment
+        android:id="@+id/pag_ubicacion"
+        android:name="pe.edu.cibertec.proyectofinalkotlin.fragmentsServices.GeoFragment"
+        tools:layout="@layout/fragment_geo"/>
+
+    <fragment
+        android:id="@+id/pag_nosotros"
+        android:name="pe.edu.cibertec.proyectofinalkotlin.fragmentsServices.AboutFragment"
+        tools:layout="@layout/fragment_about"/>
+</navigation>
